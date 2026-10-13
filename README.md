@@ -1,108 +1,165 @@
-```markdown
+```html
 <div align="center">
 
-# Karthik S. Bidarkundi
+# <span style="color:#39D353">Karthik S. Bidarkundi</span>
 
-### AI/ML Enthusiast | Exploring Intelligent Systems
-
-*Turning data into insights and ideas into intelligent solutions.*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=39D353&center=true&vCenter=true&width=650&lines=AI%2FML+Enthusiast;Machine+Learning+%26+Deep+Learning;Building+Intelligent+Systems" />
 
 <br/>
 
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-0D1117?style=for-the-badge&logo=probot&logoColor=8B5CF6)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=00D4AA)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+<a href="https://github.com/karthikSBidarkundi15">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:karthik@example.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 🧠 Who Am I?
+## ~/ whoami
 
-Hey! I'm **Karthik**, an AI/ML enthusiast passionate about exploring
-how machines learn, how data reveals patterns, and how artificial
+```bash
+$ cat about.txt
+```
+
+Hi, I'm **Karthik S. Bidarkundi**, an AI/ML enthusiast interested
+in building intelligent systems and exploring how artificial
 intelligence can solve real-world problems.
 
-I enjoy experimenting with intelligent systems and building projects
-that combine machine learning, computer vision, natural language
-processing, and emerging AI technologies.
+My interests include machine learning, computer vision, natural
+language processing, and AI-powered applications.
 
-- 🤖 Exploring Artificial Intelligence and Machine Learning
-- 🧠 Interested in Deep Learning and Neural Networks
-- 👁️ Exploring Computer Vision and Image Processing
-- 💬 Interested in NLP and Large Language Models
-- 🌱 Continuously learning, experimenting, and building
-
----
-
-## 🔬 Areas of Interest
-
-| Field | Focus |
-|---|---|
-| Artificial Intelligence | Intelligent and automated systems |
-| Machine Learning | Predictive models and pattern recognition |
-| Deep Learning | Neural networks and representation learning |
-| Computer Vision | Image analysis and visual intelligence |
-| NLP & LLMs | Language understanding and generative AI |
-| AI Applications | Applying intelligent solutions to real problems |
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Deep Learning and Neural Networks
+- 👁️ Computer Vision and Image Processing
+- 💬 NLP, LLMs and Generative AI
+- 🚀 Experimenting with intelligent applications
 
 ---
 
-## 🛠️ AI/ML Toolbox
+## ~/ focus
 
-**Programming**
+```text
+ARTIFICIAL INTELLIGENCE
+    Machine Learning
+    Deep Learning
+    Intelligent Systems
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+COMPUTER VISION
+    OpenCV
+    Image Processing
+    CNN-based Detection
 
-**Machine Learning & AI**
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-*Keep only the technologies he has actually used.*
-
----
-
-## 🚀 Featured AI/ML Projects
-
-Explore my repositories to see my experiments and work in AI,
-machine learning, computer vision, NLP, and intelligent systems.
-
-- [AI Multi-Interview Simulator](https://github.com/karthikSBidarkundi15/Ai-multi-interview-simulator)
-- [Face Mask Detection](https://github.com/karthikSBidarkundi15/face-mask-detection)
-- [AI-Based Interview Training and Proctoring System](https://github.com/karthikSBidarkundi15/AI-Based-Interview-Training-and-Proctoring-System)
-- [Smart Emergency Vehicle Priority System](https://github.com/karthikSBidarkundi15/Smart-Emergency-Vehicle-Priority-System-Using-AI)
-- [DocuMind RAG](https://github.com/karthikSBidarkundi15/documind_rag)
+NLP & GENERATIVE AI
+    Natural Language Processing
+    Large Language Models
+    AI-powered Applications
+```
 
 ---
 
-## 📊 GitHub Activity
+## ~/ tech_stack
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=karthikSBidarkundi15&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=00D4AA&text_color=E6EDF3" alt="GitHub statistics"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode&theme=dark" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikSBidarkundi15&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E6EDF3" alt="Most used programming languages"/>
+</div>
+
+```text
+LANGUAGES
+Python · JavaScript
+
+AI / MACHINE LEARNING
+OpenCV · CNN · NLP · LLMs
+
+AI DEVELOPMENT
+Groq API · Streamlit
+
+OTHER INTERESTS
+Computer Vision · IoT Integration
+```
+
+---
+
+## ~/ projects
+
+### 01 — AI Multi-Interview Simulator
+[View Repository](https://github.com/karthikSBidarkundi15/Ai-multi-interview-simulator)
+
+AI-powered interview simulator using NLP and LLMs to generate
+questions, evaluate answers, and provide feedback.
+
+`NLP` `LLMs` `Artificial Intelligence`
+
+### 02 — Face Mask Detection
+[View Repository](https://github.com/karthikSBidarkundi15/face-mask-detection)
+
+Computer vision project using Python, OpenCV, and CNN-based
+deep learning models for face mask detection.
+
+`Python` `OpenCV` `CNN` `Deep Learning`
+
+### 03 — AI Interview Training & Proctoring
+[View Repository](https://github.com/karthikSBidarkundi15/AI-Based-Interview-Training-and-Proctoring-System)
+
+An AI-powered platform combining interview preparation,
+feedback, emotion detection, and online proctoring.
+
+`AI` `NLP` `Computer Vision`
+
+### 04 — Smart Emergency Vehicle Priority System
+[View Repository](https://github.com/karthikSBidarkundi15/Smart-Emergency-Vehicle-Priority-System-Using-AI)
+
+An intelligent traffic management system designed to detect
+emergency vehicles and prioritize traffic signals.
+
+`AI` `Computer Vision` `Smart Systems`
+
+### 05 — Gram Yatra
+[View Repository](https://github.com/karthikSBidarkundi15/gram-yatra)
+
+GPS and IoT-based public transport tracking with bus location
+and estimated arrival information.
+
+`GPS` `IoT` `Real-time Tracking`
+
+---
+
+## ~/ github_stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=karthikSBidarkundi15&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=FFFFFF" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikSBidarkundi15&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=FFFFFF" />
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## ~/ achievements
 
-I'm always interested in learning about new AI technologies,
-exploring innovative ideas, and connecting with people passionate
-about artificial intelligence.
+```text
+01  Artificial Intelligence & Machine Learning
+    Infosys Springboard · 2025
+
+02  Machine Learning A-Z using Python
+    2025
+
+03  Exploring AI, Computer Vision & NLP
+    Through practical projects
+```
+
+---
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthikSBidarkundi15)
+### `while (learning) { keep_building(); }`
 
-<br/>
-
-*Learning algorithms. Exploring intelligence. Building the future.*
+**Exploring intelligence. Building possibilities.**
 
 </div>
 ```
